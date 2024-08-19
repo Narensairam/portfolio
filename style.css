@@ -144,24 +144,24 @@ body {
   }
   
   /* Experience Section */
-  #experience {
+  #Certifications {
     padding: 50px;
     background-color: #f9f9f9;
   }
   
-  .experience-item {
+  .Certifications-item {
     margin-bottom: 30px;
   }
   
-  .experience-item h3 {
+  .Certifications-item h3 {
     margin-top: 0;
   }
   
-  .experience-item p {
+  .Certifications-item p {
     margin: 10px 0;
   }
   
-  .experience-item ul {
+  .Certifications-item ul {
     margin-left: 20px;
   }
   
